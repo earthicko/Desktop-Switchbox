@@ -1,0 +1,18 @@
+#ifndef PINNUMS_HPP
+#define PINNUMS_HPP
+
+#define PINNUM_TOGGLE_1 4
+#define PINNUM_TOGGLE_2 5
+#define PINNUM_TOGGLE_3 6
+#define PINNUM_TOGGLE_4 7
+#define PINNUM_TOGGLE_5 8
+#define PINNUM_TOGGLE_6 9
+#define PINNUM_KEY_1 14
+#define PINNUM_KEY_2 15
+#define PINNUM_PUSH_1 A0
+#define PINNUM_PUSH_2 A1
+#define PINNUM_EMERGENCY 10
+#define PINNUM_POT_1 A2
+#define PINNUM_POT_2 A3
+
+#endif

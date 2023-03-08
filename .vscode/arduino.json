@@ -1,0 +1,6 @@
+{
+    "sketch": "srcs/srcs.ino",
+    "board": "arduino:avr:leonardo",
+    "programmer": "avrisp",
+    "port": "/dev/tty.usbmodemHIDPC1"
+}
